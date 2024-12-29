@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\bin\Debug\net8.0\if_else__tasks.exe
+C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\bin\Debug\net8.0\if_else__tasks.deps.json
+C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\bin\Debug\net8.0\if_else__tasks.runtimeconfig.json
+C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\bin\Debug\net8.0\if_else__tasks.dll
+C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\bin\Debug\net8.0\if_else__tasks.pdb
+C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\obj\Debug\net8.0\if_else__tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\obj\Debug\net8.0\if_else__tasks.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\obj\Debug\net8.0\if_else__tasks.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\obj\Debug\net8.0\if_else__tasks.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\obj\Debug\net8.0\if_else__tasks.dll
+C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\obj\Debug\net8.0\refint\if_else__tasks.dll
+C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\obj\Debug\net8.0\if_else__tasks.pdb
+C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\obj\Debug\net8.0\if_else__tasks.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\obj\Debug\net8.0\ref\if_else__tasks.dll
