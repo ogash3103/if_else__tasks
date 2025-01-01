@@ -12,3 +12,4 @@ C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\obj\Debug\
 C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\obj\Debug\net8.0\if_else__tasks.pdb
 C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\obj\Debug\net8.0\if_else__tasks.genruntimeconfig.cache
 C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\obj\Debug\net8.0\ref\if_else__tasks.dll
+C:\Users\User\Desktop\C#\MohirDEV\Tanlash_operatorlari\if_else__tasks\obj\Debug\net8.0\if_else__tasks.sourcelink.json
